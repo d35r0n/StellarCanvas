@@ -1,0 +1,33 @@
+# dependencies
+node_modules
+
+# next
+.next
+
+# build
+dist
+
+# env
+.env
+.env.local
+.env*.local
+
+# ide
+.vscode
+.idea
+
+# os
+.DS_Store
+Thumbs.db
+
+# debug
+*.tsbuildinfo
+next-env.d.ts
+
+# contracts
+contracts/target
+
+# video and media artifacts
+*.mp4
+scripts/video_assets/frames_*
+
