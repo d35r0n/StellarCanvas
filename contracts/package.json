@@ -1,0 +1,9 @@
+{
+  "name": "stellarcanvas-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "cargo build --target wasm32v1-none --release",
+    "test": "cargo test"
+  }
+}
