@@ -1,0 +1,8 @@
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_1_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_2_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_3_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_4_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_5_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_6_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_7_norm30.mp4'
+file '/home/om/Documents/Stellar/StellarCanvas/scripts/video_assets/scene_8_norm30.mp4'
