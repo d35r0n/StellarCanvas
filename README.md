@@ -14,7 +14,7 @@ StellarCanvas is a full-stack Web3 application that lets users connect a Stellar
 
 ## Links
 
-- **Video Demo:** Watch the demo video [here](https://drive.google.com/file/d/1DyhUhU91143fkMwPj6bfV_zBCHx61S4W/view?usp=sharing)
+- **Video Demo:** Watch the demo video [here](https://drive.google.com/file/d/1ku4LbXqc3oO4jofVU3tsT8On9Nnmy_GM/view?usp=sharing)
 - **Live Demo:** [https://stellar-canvas-nu.vercel.app/](https://stellar-canvas-nu.vercel.app/)
 
 |                     |                                                                   |
